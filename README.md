@@ -1,12 +1,10 @@
-
 # Movie App - Assignment for QuadB Tech
 
 This is a Movie Booking application that allows users to explore a list of movies and view detailed information about each movie. Also user can book ticket for any movie. The application is built using React.js.
 
-# Live website link : <https://65bb66b5e18bb459812ac606--splendid-nougat-4f67e4.netlify.app/>
 ## Features
 
-- Movie page : Displays list of the Moive cards containing the name, image, etc.
+- Movie page : Displays list of the Movie cards containing the name, image, etc.
 - Custom Error Page : Using react-router-dom to enhance user Experience.
 
 ## Getting Started
@@ -14,10 +12,10 @@ To run the application locally, follow these steps:
 
 Clone the repository:
 
-- git clone <https://github.com/ffxhxd/quadb-assignment>
+- git clone <https://github.com/CSKIronMan17/movieappassign>
 
 Navigate to the project directory:
-- cd quadb-assignment
+- cd movieappassign
 
 Install dependencies:
 - npm install
@@ -65,9 +63,3 @@ Comprehensive error-handling mechanisms have been implemented, providing meaning
 
 - Thorough Manual Testing:
 Rigorous manual testing has been conducted across various devices, ensuring a robust and user-friendly application.
-## Authors
-
-- [@fahad](https://www.github.com/ffxhxd)
-
-- Made with ❤️ for QuadB Tech
-

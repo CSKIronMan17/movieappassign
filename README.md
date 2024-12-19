@@ -2,6 +2,8 @@
 
 This is a Movie Booking application that allows users to explore a list of movies and view detailed information about each movie. Also user can book ticket for any movie. The application is built using React.js.
 
+# Live website link : <https://movieappassign.vercel.app/>
+
 ## Features
 
 - Movie page : Displays list of the Movie cards containing the name, image, etc.
